@@ -6,8 +6,8 @@
 <?php
  session_start();
 
-	require_once('google_signup/settings.php');
-	require_once('google_signup/google-login-api.php');
+	require_once('settings.php');
+	require_once('google-login-api.php');
 	include 'server.php';
 
 	// Google passes a parameter 'code' in the Redirect Url
