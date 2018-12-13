@@ -10,4 +10,6 @@ Steps-
 7.Start xampp.
 8.Open port-login.php file.
  
+P.s- Some of the backgrounds are images of Dark-shade(i.e. text is white) so make sure to download/customise accordingly in CSS files.
+
 There you go, now you can log in and create portfolio and can even share them just by sharing your username.
